@@ -1,0 +1,22 @@
+{
+  "name": "passport-azure-store",
+  "version": "0.1.0",
+  "description": "Passport strategy for Windows Azure store SSO",
+  "main": "./lib/passport-azure-store",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/auth0/passport-azure-store.git"
+  },
+  "keywords": [
+    "passport",
+    "azure",
+    "sso",
+    "store"
+  ],
+  "author": "Matias Woloski (Auth0)",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "~2.0.0",
+    "passport": "~0.1.15"
+  }
+}
