@@ -36,7 +36,7 @@ Then in your app do something like this:
 
 ## Credits
 
-  - [Matias Woloski](http://github.com/woloski) by [Auth0](http://auth0.com)
+  - [Matias Woloski](http://github.com/woloski) - [Auth0](http://auth0.com)
 
 ## License
 
