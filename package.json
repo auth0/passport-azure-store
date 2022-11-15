@@ -17,6 +17,6 @@
   "license": "MIT",
   "dependencies": {
     "moment": "~2.0.0",
-    "passport": "~0.1.15"
+    "passport": "~0.6.0"
   }
 }
